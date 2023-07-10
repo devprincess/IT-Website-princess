@@ -27,7 +27,7 @@ if (singleProduct) {
 	console.log(singleProduct);
 } else {
 	alert("Post not Found");
-	window.location.href = "http://127.0.0.1:5500/product-page.html";
+	window.location.href = "/product-page.html";
 }
 
 // DOM Manipulation
