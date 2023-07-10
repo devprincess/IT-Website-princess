@@ -1,0 +1,9 @@
+#myCardGroup {
+    display : flex;
+    flex-direction : row;
+    flex-wrap : wrap;
+}.myCard {
+    background-color : rgb(214, 218, 240);
+    margin: 20px;
+    border-radius: 5%;
+}
